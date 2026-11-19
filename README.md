@@ -34,3 +34,5 @@ cd test1
 
 MIT License
 
+
+Cue GitHub integration test.
