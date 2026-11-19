@@ -34,3 +34,4 @@ cd test1
 
 MIT License
 
+- Cue GitHub connector 测试：验证 README 更新、提交、推送及 Draft PR 流程。
